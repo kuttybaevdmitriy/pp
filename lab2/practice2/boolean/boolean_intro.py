@@ -19,7 +19,7 @@ print(bool(x))
 print(bool(y))
 
 #4
-bool("abc")
-bool(123)
-bool(["apple", "cherry", "banana"])
+print(bool("abc"))
+print(bool(123))
+print(bool(["apple", "cherry", "banana"]))
 
