@@ -28,7 +28,7 @@ class Student:
     def __init__(self,name,university):
         self.name = name
         self.university = university
-U1 = Student("Akyltai","KBTU")
+U1 = Student("Dmitriy","KBTU")
 print(f"{U1.name} study in {U1.university}")
 #5
 class Cars:

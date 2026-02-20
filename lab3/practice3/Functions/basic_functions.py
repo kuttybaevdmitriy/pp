@@ -31,5 +31,5 @@ def give_time_info():
 give_time_info()
 #5
 def give_info_about_me():
-    print("My name:Akyltai")
+    print("My name:Dmitriy")
 give_info_about_me()

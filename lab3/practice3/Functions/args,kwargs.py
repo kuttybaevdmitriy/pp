@@ -28,4 +28,4 @@ def profile(name,**info):
     print(f'Profile ------{name.capitalize()}---')
     for key,value in info.items():        
         print(f"{key.replace('_',' ').capitalize()}:{value}")
-profile("akyltai",hobby='reading book',age=18,birth_day=24.11)
+profile("Dmitriy",hobby='reading book',age=18,birth_day=24.11)
