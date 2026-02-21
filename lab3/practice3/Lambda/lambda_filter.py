@@ -5,7 +5,7 @@ print(a)
 b = filter((lambda x:x%2==0),[1,2,34,5,6,78])
 print(list(b))
 #3
-c = filter((lambda x:x==x.capitalize()),(["Akyltai","want","4","GPA"]))
+c = filter((lambda x:x==x.capitalize()),(["Dmitriy","want","4","GPA"]))
 print("Correct capital words:")
 for i,j in enumerate(c):
     print(f'N{i} - {j}')
