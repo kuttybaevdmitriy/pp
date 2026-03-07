@@ -29,7 +29,7 @@ print(re.findall(p5, t5))
 t6 = "Hello, world. Regex test"
 print(re.sub(r"[ ,.]", ":", t6))
 
-# 7.snake → camel
+# 7.snake > camel
 def s2c(s):
     p = s.split("_")
     return p[0] + "".join(x.capitalize() for x in p[1:])
@@ -43,7 +43,7 @@ print(re.split(r"(?=[A-Z])", t8))
 t9 = "InsertSpacesBetweenWordsStartingWithCapitalLetters"
 print(re.sub(r"([A-Z])", r" \1", t9).strip())
 
-# 10.camel → snake
+# 10.camel > snake
 def c2s(s):
     return re.sub(r"([A-Z])", r"_\1", s).lower()
 print(c2s("camelCaseString"))
