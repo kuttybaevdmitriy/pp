@@ -18,7 +18,7 @@ def main():
                 pygame.quit(); sys.exit()
 
             if event.type == pygame.KEYDOWN:
-                # выбор цвета
+                # выбdор цвета
                 if event.key == pygame.K_r: color = (255, 0, 0)
                 if event.key == pygame.K_g: color = (0, 255, 0)
                 if event.key == pygame.K_b: color = (0, 0, 255)

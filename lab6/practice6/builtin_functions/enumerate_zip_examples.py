@@ -7,6 +7,6 @@ for i, name in enumerate(names):
 for name, score in zip(names, scores):
     print(name, score)
 
-items = [1, "привет", 3.5, True]
+items = [12, "привет", 3.5, True]
 for x in items:
     print(type(x))

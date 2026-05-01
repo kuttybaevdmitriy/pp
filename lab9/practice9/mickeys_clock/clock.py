@@ -10,7 +10,7 @@ class MickeyClock:
         self.center = center
 
     def draw(self):
-        # текущее время
+        # теeкущее время
         now = datetime.datetime.now()
         minutes = now.minute
         seconds = now.second

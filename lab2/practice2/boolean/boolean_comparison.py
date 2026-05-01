@@ -25,7 +25,7 @@ else:
 x = 200
 print(isinstance(x, int))
 
-#5
+#5s
 def myFunction() :
   return True
 

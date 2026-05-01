@@ -10,6 +10,6 @@ print(type(Bank()))
 #4
 class Person():
     pass
-#5
+#5s
 class Animal():
     wild_animal = "wolves"

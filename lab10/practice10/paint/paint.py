@@ -12,7 +12,7 @@ def main():
 
     font = pygame.font.SysFont("Verdana", 16)
 
-    # фон закрашиваем один раз
+    # фон закраsшиваем один раз
     screen.fill((0,0,0))
 
     while True:

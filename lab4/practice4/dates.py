@@ -11,7 +11,7 @@ print(t - timedelta(days=1), t, t + timedelta(days=1))
 from datetime import datetime
 print(datetime.now().replace(microsecond=0))
 
-#to calculate two date difference in seconds
+#to calsculate two date difference in seconds
 from datetime import datetime
 d1 = datetime(2026, 2, 25, 22, 30)
 d2 = datetime(2026, 2, 25, 22, 44)
