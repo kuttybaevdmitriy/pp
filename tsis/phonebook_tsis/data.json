@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Бахытжан Оспанов",
+        "email": "bakhyt@test.kz",
+        "birthday": "1992-12-12",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "87479990011",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Иван Иванов",
+        "email": "ivan@mail.kz",
+        "birthday": "1990-05-15",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "87012223344",
+                "type": "mobile"
+            },
+            {
+                "phone": "3264",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "Елена Кузнецова",
+        "email": "elena@yandex.ru",
+        "birthday": "1985-07-03",
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "87023334455",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Мария Сидорова",
+        "email": "mariya@company.com",
+        "birthday": "1988-10-20",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "87771112233",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Алексей Смирнов",
+        "email": "alex@gmail.com",
+        "birthday": "1995-01-30",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "87055556677",
+                "type": "home"
+            }
+        ]
+    }
+]
