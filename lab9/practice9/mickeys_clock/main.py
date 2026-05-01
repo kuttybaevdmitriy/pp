@@ -14,7 +14,6 @@ clock = MickeyClock(
     "images/left_hand.png",
     center
 )
-
 running = True
 timer = pygame.time.Clock()
 
